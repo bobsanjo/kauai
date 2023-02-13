@@ -1,4 +1,4 @@
-[> Home](README.md) | [> Beaches](beaches.md) | [Sights](sites.md)  | [Hotel](hotel.md) 
+[> Home](README.md) | [Beaches](beaches.md) | [Sights](sites.md)  | [Hotel](hotel.md) 
 
 ## Kauai 2023 Trip
 
