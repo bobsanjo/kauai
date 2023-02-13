@@ -1,4 +1,4 @@
-[Home](README.md) | [> Beaches](beaches.md) | [Sites](sites.md) 
+[Home](README.md) | [Beaches](beaches.md) | [> Sights](sites.md)  | [Hotel](hotel.md) 
 
 ## Sights
 
