@@ -1,6 +1,6 @@
-## Kauai 2023
+[> Home](README.md) | [> Beaches](beaches.md) | [Sites](sites.md) 
 
-## The Trip
+## Kauai 2023 Trip
 
 Tanya and Bobby flew to Kauai in January 2023 on Southwest Airlines. The flight was not full, so we had plenty of room to relax. It's a little over a 5 hour flight.
 
@@ -10,39 +10,7 @@ Tanya and Bobby flew to Kauai in January 2023 on Southwest Airlines. The flight 
 
 5 Miles north of Lihue
 
-## Pictures
-
-Ukelele Player 
-
-![kauai](pics/k7.jpg)
+***Ukelele Player***
 
 ![kauai](pics/k1.jpg)
-
-![kauai](pics/k2.jpg)
-
-![kauai](pics/k3.png)
-
-![kauai](pics/k4.jpg)
-
-![kauai](pics/k5.jpg)
-
-![kauai](pics/k6.jpg)
-
-
-![kauai](pics/k8.jpg)
-
-![kauai](pics/k9.png)
-
-![kauai](pics/k1.png)
-
-![kauai](pics/k10.png)
-
-![kauai](pics/k11.jpg)
-
-![kauai](pics/k12.jpg)
-
-![kauai](pics/k13.jpg)
-
-![kauai](pics/k14.png)
-
 
