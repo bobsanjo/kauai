@@ -12,6 +12,8 @@ Tanya and Bobby flew to Kauai in January 2023 on Southwest Airlines. The flight 
 
 ## Pictures
 
+<img src="pics/k7.jpg" alt="ukelele player">
+
 ![kauai](pics/k7.jpg)
 
 ![kauai](pics/k1.jpg)
