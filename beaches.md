@@ -1,6 +1,6 @@
 [Home](README.md) | [> Beaches](beaches.md) | [Sites](sites.md) 
 
-## Lydgate
+## Lydgate Park
 
 Nice snorkeling for the beginner, nothing to get into trouble with.
 
