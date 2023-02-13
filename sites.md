@@ -1,8 +1,7 @@
-## Pictures
+[Home](README.md) | [> Beaches](beaches.md) | [Sites](sites.md) 
 
-Ukelele Player 
+## Sights
 
-![kauai](pics/k1.jpg)
 
 ![kauai](pics/k7.jpg)
 
