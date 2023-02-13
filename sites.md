@@ -3,7 +3,6 @@
 ## Sights
 
 
-![kauai](pics/k7.jpg)
 
 ![kauai](pics/k2.jpg)
 
