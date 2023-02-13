@@ -13,7 +13,7 @@ Tanya and Bobby flew to Kauai in January 2023 on Southwest Airlines. The flight 
 
 ![kauai](pics/k7.jpg)
 
-
+![kauai](pics/k1.jpg)
 
 ![kauai](pics/k2.jpg)
 
@@ -33,3 +33,13 @@ Tanya and Bobby flew to Kauai in January 2023 on Southwest Airlines. The flight 
 ![kauai](pics/k1.png)
 
 ![kauai](pics/k10.png)
+
+![kauai](pics/k11.jpg)
+
+![kauai](pics/k12.jpg)
+
+![kauai](pics/k13.jpg)
+
+![kauai](pics/k14.png)
+
+
